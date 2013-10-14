@@ -3,6 +3,13 @@ Ce dossier contient le support du cours WordPress donné par [Manuel Schmalstieg
 ## Table des matières
 
 1. [Les préliminaires](01-preliminiaires/00-Preliminaires.md)
+    - [WP.com ou WP.org](01-preliminiaires/01-wpCOM-ou-wpORG.md) ?
+    - [Obtenir un nom de domaine](01-preliminiaires/02-Nom-de-domaine.md)
+    - [Obtenir un hébergement](01-preliminiaires/03-Hebergement.md)
+    - [Régler les NameServers](01-preliminiaires/04-NameServers.md)
+    - [Créer une base de données](01-preliminiaires/05-Creer-la-Database.md)
+    - [Chargement FTP](01-preliminiaires/06-Chargement-FTP.md)
+    - [Installer WordPress](01-preliminiaires/07-Installer-WordPress.md)
 
 ## Références
 
@@ -24,6 +31,6 @@ Licence: [CC-BY-SA](LICENCE.txt)
 
 Vous pouvez télécharger ce support de cours aux emplacements suivants:
 
-- github: 
-- dropbox: 
-- bittorrent sync: 
+- Github: https://github.com/ms-studio/cours-WP-fr
+- Dropbox: https://www.dropbox.com/sh/cydbplalk5sk3x0/jBcKQCYQ7x
+- Bittorrent Sync: 
