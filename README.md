@@ -31,6 +31,6 @@ Licence: [CC-BY-SA](LICENCE.txt)
 
 Vous pouvez télécharger ce support de cours aux emplacements suivants:
 
-- Github: https://github.com/ms-studio/cours-WP-fr
-- Dropbox: https://www.dropbox.com/sh/cydbplalk5sk3x0/jBcKQCYQ7x
-- Bittorrent Sync: 
+- **Github:** https://github.com/ms-studio/cours-WP-fr
+- **Dropbox:** https://www.dropbox.com/sh/cydbplalk5sk3x0/jBcKQCYQ7x
+- **Bittorrent Sync:** BDGPRZCTB2NHTZWGM7HYQAFNYG7PKQUVT
