@@ -12,14 +12,6 @@
 
 **Suite:** Utiliser WordPress
 
-*********
+******
 
-Support de cours WordPress<br/>
-Octobre 2013<br/>
-Licence: CC-BY-SA
-
-Vous pouvez télécharger ce support de cours aux emplacements suivants:
-
-- github: 
-- dropbox: 
-- bittorrent sync: 
+Cours WordPress - [goo.gl/kWGfCn](https://github.com/ms-studio/cours-WP-fr/)

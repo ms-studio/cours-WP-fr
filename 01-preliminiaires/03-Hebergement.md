@@ -4,7 +4,7 @@ Nous disions: pour créer un site indépendant, vous devez disposer de deux chos
 1. Un nom de domaine: c'est fait!
 2. Un hébergement.
 
-## Obtenir un hébergement
+## 3) Obtenir un hébergement
 
 Contrairement au choix du registrar, le choix de l'hébergement est plus délicat, car la qualité varie d'un prestataire à l'autre, et un mauvais choix signifie:
 
@@ -31,3 +31,7 @@ Si on n'a pas envie de faire des tests comparatifs, je conseille un hébergement
 Si vous cherchez moins cher, mon conseil est: évitez d'aller chez un hébergeur bas de gamme, vous perdrez du temps avec divers soucis techniques. Associez-vous plutôt avec d'autres personnes pour partager un même hébergement de qualité.
 
 **Suite:** [Les Name Servers](04-NameServers.md)
+
+******
+
+Cours WordPress - [goo.gl/kWGfCn](https://github.com/ms-studio/cours-WP-fr/)

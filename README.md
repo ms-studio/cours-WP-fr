@@ -14,7 +14,8 @@ Ce dossier contient le support du cours WordPress donné par [Manuel Schmalstieg
 ## Références
 
 * [Télécharger WordPress en français](http://fr.wordpress.org/)
-* [Le Codex](http://codex.wordpress.org/fr:Accueil) (documentation officielle)
+* [Le Codex WordPress francophone](http://codex.wordpress.org/fr:Accueil)
+* [WordPress User Manual](http://make.wordpress.org/support/user-manual/) (en anglais)
 * [Forums de support](http://www.wordpress-fr.net/support/)
 * [Forums en anglais](http://wordpress.org/support/)
 
@@ -31,6 +32,6 @@ Licence: [CC-BY-SA](LICENCE.txt)
 
 Vous pouvez télécharger ce support de cours aux emplacements suivants:
 
-- **Github:** https://github.com/ms-studio/cours-WP-fr
-- **Dropbox:** https://www.dropbox.com/sh/cydbplalk5sk3x0/jBcKQCYQ7x
+- **Github:** [https://github.com/ms-studio/cours-WP-fr](https://github.com/ms-studio/cours-WP-fr)
+- **Dropbox:** [https://www.dropbox.com/sh/cydbplalk5sk3x0/jBcKQCYQ7x](https://www.dropbox.com/sh/cydbplalk5sk3x0/jBcKQCYQ7x)
 - **Bittorrent Sync:** BF4XR6LXW4TE47UAQLU54WEHTNWETLJ2I

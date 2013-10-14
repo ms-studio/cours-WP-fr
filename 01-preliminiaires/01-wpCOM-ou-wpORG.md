@@ -1,10 +1,10 @@
-# WP.com ou WP.org ?
+# 1) WP.com ou WP.org ?
 
 Pour débuter:
 
 Décider si vous utilisez le service WordPress.com ou une installation indépendante (WordPress.org).
 
-Pour ouvrir un site sur WordPress.com, il vous suffit d'ouvrir un compte [ici](https://fr.wordpress.com/signup/).
+Pour ouvrir un site sur WordPress.com, il vous suffit d'[ouvrir un compte ici](https://fr.wordpress.com/signup/).
 
 ## Les particularités de WordPress.com
 
@@ -18,8 +18,12 @@ Pour ouvrir un site sur WordPress.com, il vous suffit d'ouvrir un compte [ici](h
 - Vous devez payer le nom de domaine et l'hébergement.
 - Vous avez le choix parmi des milliers de [thèmes](http://wordpress.org/themes/) gratuits ou payants.
 - Vous pouvez installer librement des [plugins](http://wordpress.org/plugins/) pour ajouter des fonctionalités.
-- Vous devrez appliquer les mises à jour régulièrement.
+- Vous devrez appliquer les mises à jour régulièrement pour garantir la sécurité de votre site.
 
 La suite de ce chapitre concerne uniquement l'option 2: un site WordPress indépendant.
 
 **Suite:** [Obtenir un nom de domaine](02-Nom-de-domaine.md)
+
+******
+
+Cours WordPress - [goo.gl/kWGfCn](https://github.com/ms-studio/cours-WP-fr/)
