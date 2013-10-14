@@ -20,7 +20,7 @@ Ce dossier contient le support du cours WordPress donné par [Manuel Schmalstieg
 Support de cours WordPress<br/>
 Octobre 2013<br/>
 Copyright [Manuel Schmalstieg](http://ms-studio.net)<br/>
-Licence: CC-BY-SA
+Licence: [CC-BY-SA](LICENCE.txt)
 
 Vous pouvez télécharger ce support de cours aux emplacements suivants:
 
