@@ -1,6 +1,6 @@
 # Cours WordPress
 
-## Préliminaires:
+## 1 – Préliminaires:
 
 1. [WP.com ou WP.org](01-wpCOM-ou-wpORG.md) ?
 2. [Obtenir un nom de domaine](02-Nom-de-domaine.md)
@@ -10,7 +10,7 @@
 6. [Chargement FTP](06-Chargement-FTP.md)
 7. [Installer WordPress](07-Installer-WordPress.md)
 
-**Suite:** Utiliser WordPress
+**Suite:** 2 – Utiliser WordPress
 
 ******
 

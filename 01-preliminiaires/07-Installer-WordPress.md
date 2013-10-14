@@ -1,4 +1,4 @@
-# Installer WordPress
+# 1.7 – Installer WordPress
 
 Une fois que tous les fichiers de WordPress ont été copiés sur votre serveur, entrez l'adresse de votre domaine dans un navigateur.
 

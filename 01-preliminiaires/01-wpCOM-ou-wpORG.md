@@ -1,4 +1,4 @@
-# 1) WP.com ou WP.org ?
+# 1.1 – WP.com ou WP.org ?
 
 Pour débuter:
 

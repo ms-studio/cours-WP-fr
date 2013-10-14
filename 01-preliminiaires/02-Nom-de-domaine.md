@@ -1,9 +1,9 @@
 Pour créer un site indépendant, vous devez disposer de deux choses:
 
-1. Un nom de domaine.
-2. Un hébergement.
+- Un nom de domaine.
+- Un hébergement.
 
-# 2) Obtenir le nom de domaine
+# 1.2 – Obtenir le nom de domaine
 
 Note: certains hébergeurs vous offrent un nom de domaine inclus dans l'hébergement. Cela va toutefois vous lier à cet hébergeur, il pourra être compliqué de conserver ce nom de domaine si vous changez d'hébergement.
 

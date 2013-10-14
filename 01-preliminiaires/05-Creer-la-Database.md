@@ -1,4 +1,4 @@
-# 5) Créer la base de données
+# 1.5 – Créer la base de données
 
 A présent, il reste à configurer une base de données (qui contiendra le texte de vos articles). 
 

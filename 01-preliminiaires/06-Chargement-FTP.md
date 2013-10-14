@@ -1,4 +1,4 @@
-## Chargement FTP
+# 1.6 – Chargement FTP
 
 Vous entreprenez maintenant la dernière étape de l'installation: vous allez placer sur votre serveur les fichiers-source de Wordpress. 
 

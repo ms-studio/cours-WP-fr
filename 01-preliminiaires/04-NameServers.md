@@ -1,4 +1,4 @@
-# 4) Régler les Name Servers
+# 1.4 – Régler les Name Servers
 
 Une fois l’hébergement acheté, vous recevrez un courriel contenant le lien vers l'interface admin, avec vos nom d'utilisateur et mot de passe.
 

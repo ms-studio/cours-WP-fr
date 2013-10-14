@@ -1,10 +1,10 @@
 
 Nous disions: pour créer un site indépendant, vous devez disposer de deux choses.
 
-1. Un nom de domaine: c'est fait!
-2. Un hébergement.
+- Un nom de domaine: c'est fait!
+- Un hébergement.
 
-## 3) Obtenir un hébergement
+# 1.3 – Obtenir un hébergement
 
 Contrairement au choix du registrar, le choix de l'hébergement est plus délicat, car la qualité varie d'un prestataire à l'autre, et un mauvais choix signifie:
 
