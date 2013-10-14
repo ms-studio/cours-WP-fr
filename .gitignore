@@ -36,6 +36,12 @@ dwsync.xml
 *.komodoproject
 .komodotools
 
+# Bittorrent files #
+###################
+.SyncID
+.SyncIgnore
+.SyncArchive
+
 # Temporary files #
 ###################
 *.autosave
@@ -51,3 +57,5 @@ intermediate
 publish
 .idea
 img-src
+
+.SyncIgnore
