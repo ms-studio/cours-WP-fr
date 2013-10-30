@@ -11,7 +11,7 @@ Ce dossier contient le support du cours WordPress donné par [Manuel Schmalstieg
     - [Chargement FTP](01-preliminiaires/06-Chargement-FTP.md)
     - [Installer WordPress](01-preliminiaires/07-Installer-WordPress.md)
 2. [Les préliminaires](02-utiliser/00-Utiliser.md)
-    - [Réglages initiaux](02-utiliser/01-Reglages-initiaux.md) ?
+    - [Réglages initiaux](02-utiliser/01-Reglages-initiaux.md)
     - [Entrer du texte](02-utiliser/02-Texte.md)
     - [Gestion des images](02-utiliser/03-Images.md)
     - [Les Thèmes](02-utiliser/04-Themes.md)
