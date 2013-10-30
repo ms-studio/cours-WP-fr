@@ -10,7 +10,7 @@ Ce dossier contient le support du cours WordPress donné par [Manuel Schmalstieg
     - [Créer une base de données](01-preliminiaires/05-Creer-la-Database.md)
     - [Chargement FTP](01-preliminiaires/06-Chargement-FTP.md)
     - [Installer WordPress](01-preliminiaires/07-Installer-WordPress.md)
-2. [Les préliminaires](02-utiliser/00-Utiliser.md)
+2. [Utiliser WordPress](02-utiliser/00-Utiliser.md)
     - [Réglages initiaux](02-utiliser/01-Reglages-initiaux.md)
     - [Entrer du texte](02-utiliser/02-Texte.md)
     - [Gestion des images](02-utiliser/03-Images.md)
@@ -18,6 +18,7 @@ Ce dossier contient le support du cours WordPress donné par [Manuel Schmalstieg
     - [Les Plugins](02-utiliser/05-Plugins.md)
     - [Les Menus](02-utiliser/06-Menus.md)
     - [Les Widgets](02-utiliser/07-Widgets.md)
+3. Personnaliser un site
 
 ## Références
 
