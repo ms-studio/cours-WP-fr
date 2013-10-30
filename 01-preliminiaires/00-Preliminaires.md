@@ -10,7 +10,7 @@
 6. [Chargement FTP](06-Chargement-FTP.md)
 7. [Installer WordPress](07-Installer-WordPress.md)
 
-**Suite:** 2 – Utiliser WordPress
+**Suite:** 2 – [Utiliser WordPress](../02-utiliser/00-Utiliser.md)
 
 ******
 

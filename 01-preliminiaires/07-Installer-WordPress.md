@@ -16,6 +16,8 @@ En cas de doute, référez-vous à la documentation en français: [http://codex.
 
 L'installation à réussi? C'est parfait, vous pouvez à présent commencer à entrer vos contenus...
 
+**Suite:** 2 – [Utiliser WordPress](../02-utiliser/00-Utiliser.md)
+
 ******
 
 Cours WordPress - [goo.gl/kWGfCn](https://github.com/ms-studio/cours-WP-fr/)
