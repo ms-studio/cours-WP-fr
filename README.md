@@ -25,8 +25,10 @@ Ce dossier contient le support du cours WordPress donné par [Manuel Schmalstieg
 * [Télécharger WordPress en français](http://fr.wordpress.org/)
 * [Le Codex WordPress francophone](http://codex.wordpress.org/fr:Accueil)
 * [WordPress User Manual](http://make.wordpress.org/support/user-manual/) (en anglais)
+* [WordPress FLOSS Manual](http://en.flossmanuals.net/wordpress/) (en anglais)
 * [Forums de support](http://www.wordpress-fr.net/support/)
 * [Forums en anglais](http://wordpress.org/support/)
+* [Learn WordPress.com](http://learn.wordpress.com/) (en anglais)
 
 ## Des livres sur WordPress
 
