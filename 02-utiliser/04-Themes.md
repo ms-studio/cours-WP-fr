@@ -32,6 +32,9 @@ Quelques coups de cœur:
 Elma Studio:<br/>
 http://www.elmastudio.de/en/themes/
 
+Wpshower:<br/>
+http://wpshower.com/
+
 The Theme Foundry:<br/>
 http://thethemefoundry.com/
 
