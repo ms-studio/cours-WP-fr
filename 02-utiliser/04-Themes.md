@@ -5,14 +5,13 @@ Thèmes par défaut inclus dans WordPress:
 * Twenty Eleven: http://wordpress.org/themes/twentyeleven
 * Twenty Twelve: http://wordpress.org/themes/twentytwelve
 * Twenty Thirteen: http://wordpress.org/themes/twentythirteen
-
-À venir:<br/>
-Twenty Fourteen: http://twentyfourteendemo.wordpress.com/<br/>
+* Twenty Fourteen: http://twentyfourteendemo.wordpress.com/
 (c'était jusqu'ici un thème à 150$ sur WordPress.com)
 
 
 ## Thèmes gratuits 
-Thèmes créés par des contributeurs:
+
+Quelques thèmes gratuits de haute qualité, créés par des contributeurs au noyau de WordPress:
 
 l'équipe Automattic:<br/>
 http://profiles.wordpress.org/automattic/
@@ -24,6 +23,7 @@ Konstantin Kovshenin<br/>
 http://profiles.wordpress.org/kovshenin/
 
 ## Thèmes commerciaux:
+
 Une longue liste de boutiques de thèmes:<br/>
 http://wordpress.org/themes/commercial/
 
@@ -32,7 +32,7 @@ Quelques coups de cœur:
 Elma Studio:<br/>
 http://www.elmastudio.de/en/themes/
 
-Wpshower:<br/>
+WPshower:<br/>
 http://wpshower.com/
 
 The Theme Foundry:<br/>
@@ -46,6 +46,7 @@ http://graphpaperpress.com/
 
 Voir aussi les thèmes disponibles sur WordPress.com<br/>
 http://theme.wordpress.com/<br/>
+
 Certains peuvent aussi être obtenus sur WordPress.org, ou achetés chez leurs auteurs respectifs.
 
 **Suite:** [Les Plugins](05-Plugins.md)

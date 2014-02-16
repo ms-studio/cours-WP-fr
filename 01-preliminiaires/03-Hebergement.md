@@ -28,7 +28,7 @@ Le choix d'un hébergement aux Etat-Unis ou en Europe devrait dépendre du publi
 
 Si on n'a pas envie de faire des tests comparatifs, je conseille un hébergement chez [Hostpoint.ch](Hostpoint.ch). De mon expérience, ils ont des réglages optimaux pour WordPress, sans qu'il y ait des soucis de permissions sur les répertoires (souvent rencontrés ailleurs). De plus, [leurs offres](https://www.hostpoint.ch/fr/herbergement-web/herbergement-apercu.html) permettent d'avoir plusieurs noms de domaines.
 
-Si vous cherchez moins cher, mon conseil est: évitez d'aller chez un hébergeur bas de gamme, vous perdrez du temps avec divers soucis techniques. Associez-vous plutôt avec d'autres personnes pour partager un même hébergement de qualité.
+Si vous cherchez moins cher, mon conseil est: évitez d'aller chez un hébergeur bas de gamme, vous perdrez du temps avec divers soucis techniques. Pour baisser les coûts, associez-vous plutôt avec d'autres personnes ou organisations pour partager un même hébergement de qualité.
 
 **Suite:** [Les Name Servers](04-NameServers.md)
 

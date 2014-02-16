@@ -1,6 +1,6 @@
 # 2.6 – Réglages initiaux
 
-Utiliation des menus.
+Utilisation des menus.
 
 **Suite:** [Les Widgets](07-Widgets.md)
 

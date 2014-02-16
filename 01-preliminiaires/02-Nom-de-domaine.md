@@ -13,11 +13,11 @@ Pour les noms de domaines en ".ch", il y a un registrar unique: [www.nic.ch](htt
 
 Le prix pour un ".ch" est de 17.- chf/année.
 
-Pour les domaines ".com", ".org", ".net", le prix est d'à peu près 10.- dollars/année. Pour les autres domaines - ".info", ".io", ".fm", ".tv"... - cela varie, il faut chercher.
+Pour les domaines ".com", ".org", ".net", le prix est d’à peu près 10.- dollars/année. Pour les autres domaines - ".info", ".io", ".fm", ".tv"... - cela varie, il faut chercher.
 
 Il n'y a pas de différence "qualitative" entre un registrar et un autre.
 
-J'utilise personnellement le registrar [GKG.net](https://www.gkg.net/). En France, [Gandi.net](http://www.gandi.net/?lang=fr) est un registrar très connu.
+J'utilise personnellement le registrar [GKG.net](https://www.gkg.net/). En France, [Gandi.net](http://www.gandi.net/?lang=fr) est un registrar très connu. D’autres registrars de bonne réputation sont Namecheap.com et 1and1.com.
 
 La procédure:
 

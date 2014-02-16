@@ -12,11 +12,11 @@ http://wordpress.org/plugins/regenerate-thumbnails/
 Un plugin de backup:<br/>
 http://wordpress.org/plugins/backwpup/
 
-Formulaire de contact:<br/>
+Un formulaire de contact:<br/>
 Contact Form 7: <br/>
 http://wordpress.org/plugins/contact-form-7/
 
-### Plugins Sécurité:
+### Plugins de écurité:
 
 Limit Login Attempts:<br/>
 http://wordpress.org/plugins/limit-login-attempts/
@@ -32,7 +32,8 @@ http://wordpress.org/plugins/akismet/
 AntispamBee:<br/>
 http://wordpress.org/plugins/antispam-bee/
 
-Fonctions de WordPress.com:<br/>
+### Fonctions de WordPress.com:
+
 Jetpack:<br/>
 http://jetpack.me/
 
@@ -42,9 +43,6 @@ http://goo.gl/5L12OH
 Certaines fonctions ont été extraites, p.ex. le carousel:<br/>
 http://wordpress.org/plugins/carousel-without-jetpack/
 
-MP6, nouvelle interface admin pour WordPress:<br/>
-http://wordpress.org/plugins/mp6/
-
 Pour la traduction de thèmes et plugins:<br/>
 http://wordpress.org/plugins/codestyling-localization/
 
@@ -53,10 +51,10 @@ http://wordpress.org/plugins/codestyling-localization/
 EditFlow - suivi rédactionnel:<br/>
 http://editflow.org/
 
-BBpress: <br/>
+BBpress - un forum: <br/>
 http://wordpress.org/plugins/bbpress/
 
-BuddyPress: <br/>
+BuddyPress - un réseau social: <br/>
 http://buddypress.org/
 
 **Suite:** [Les Menus](06-Menus.md)
